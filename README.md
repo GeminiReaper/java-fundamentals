@@ -1,4 +1,4 @@
-# Java - Java 8 Feature set
+# Java 8 Feature set
 
 This branch will go through all the changes that came out with Java 8. Review them and practice them to understand what are they, how they work, why you should use them, when you should use them.
 
